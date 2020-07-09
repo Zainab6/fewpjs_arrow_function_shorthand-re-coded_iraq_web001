@@ -1,3 +1,3 @@
 let divide = function(){
-  return 
+  return 2000/100
 }
