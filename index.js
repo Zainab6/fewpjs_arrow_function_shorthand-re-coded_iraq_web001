@@ -3,3 +3,5 @@ let divide = function(){
 }
 
 let square = x=>x**2
+
+let add = (a,b)=>a+b
